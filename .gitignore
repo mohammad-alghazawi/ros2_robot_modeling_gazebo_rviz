@@ -1,0 +1,11 @@
+build/
+install/
+log/
+*.pyc
+__pycache__/
+*.swp
+*.sdf
+*.db
+*.log
+*.pdf
+*.gv
